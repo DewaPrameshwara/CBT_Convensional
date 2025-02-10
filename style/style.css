@@ -11,7 +11,7 @@ html {
 }
 
 .up-button {
-  padding: 5%;
+  padding: 20px;
   border-radius: 10px;
   background-color: blue;
   position: fixed;
@@ -135,6 +135,7 @@ a {
   border: 2px solid black;
   min-block-size: 20rlh;
   inline-size: 150ch;
+  padding: 10px;
 }
 
 .teknik-deepbreathing {
